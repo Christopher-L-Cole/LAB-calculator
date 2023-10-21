@@ -1,6 +1,7 @@
 body {
-  background-image: url('benjamin-voros-wITd9_eDTw8-unsplash.jpg')
-  
+  background-image: url('benjamin-voros-wITd9_eDTw8-unsplash.jpg');
+  background-size: cover;
+  /* not sure how to make photo how to fit to screen. i think something wrong with vs code currently or i'm too tired and missing something.  */
 }
 
 #calculator {
